@@ -1,0 +1,16 @@
+{
+  "title": "Judo, Jujitsu & Taïso",
+  "text": "Nous pratiquons le judo dans le respect de la tradition Japonaise.",
+  "section": [
+    {
+      "title": "Pôle loisir",
+      "content": "Pour celles et ceux désirant apprendre et se détendre.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Pôle compétition",
+      "content": "Destiné à celles  et ceux recherchant la performance.",
+      "icon": "notes.svg"
+    }
+  ]
+}
