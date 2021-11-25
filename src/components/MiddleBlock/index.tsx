@@ -11,13 +11,7 @@ interface MiddleBlockProps {
   t: any;
 }
 
-const MiddleBlock = ({ title, content, button, t }: MiddleBlockProps) => {
-  const scrollTo = (id: string) => {
-    const element = document.getElementById(id) as HTMLDivElement;
-    element.scrollIntoView({
-      behavior: "smooth",
-    });
-  };
+
   return (
     <MiddleBlockSection>
       <Slide direction="up">
